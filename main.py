@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 23 16:12:07 2020
 
-@author: richlink
-"""
 
 import glob
 import os
